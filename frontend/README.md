@@ -15,9 +15,9 @@ ChitChat is a web-based chat application designed to facilitate seamless convers
 - **Secure Sessions:** Sessions are managed securely for user privacy.  
 
 ## Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript ,React
 - **Backend:** Node.js / Express  
-- **Database:** (e.g., MongoDB, Firebase)  
+- **Database:** MongoDB 
 - **Hosting:** Render  
 
 ## Getting Started (Development Setup)  
